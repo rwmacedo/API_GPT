@@ -1,0 +1,1 @@
+API_KEY= #Colar aqui sua chave da API da OpenAi
